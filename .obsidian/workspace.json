@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "c46ede9c74729127",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e434a03501a01dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd378f01676c856a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff67bde6ac01ba97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tool/ansible.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae7b891d2596205e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e981419929e46e02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7058bf5be9db947d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "725853e2253d7085",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tool/ansible.md"
+              }
+            }
+          },
+          {
+            "id": "2e391d6183b88b7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#安装",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd24b4ed51397d0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e69847023630719",
+    "type": "split",
+    "children": [
+      {
+        "id": "d683f6c155028054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a55d99726fe092a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tool/ansible.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9834df25cc8f4a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tool/ansible.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b57390931dc87cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ff67bde6ac01ba97",
+  "lastOpenFiles": [
+    "学习记录.md",
+    "tool/ansible.md",
+    "learning",
+    "img/Pasted image 20240531141604.png",
+    "img/Pasted image 20240531134906.png",
+    "img/Pasted image 20240531132522.png",
+    "img/Pasted image 20240531121749.png",
+    "tool",
+    "lvs/基本原理概述.md",
+    "nginx/负载均衡配置.md",
+    "nginx/nginx基本概念.md",
+    "nginx/配置文件详解.md",
+    "img/Pasted image 20240531121026.png",
+    "img/Pasted image 20240531120844.png",
+    "img/Pasted image 20240531120609.png",
+    "img/Pasted image 20240531120540.png",
+    "img/Pasted image 20240531120530.png",
+    "img/Pasted image 20240531120325.png",
+    "python/Django.md",
+    "python/Celery.md",
+    "python/环境管理.md",
+    "lvs",
+    "python"
+  ]
+}
