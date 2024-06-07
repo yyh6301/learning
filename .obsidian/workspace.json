@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4e434a03501a01dd",
+        "id": "aeed6fea9e8f2a27",
         "type": "tabs",
         "children": [
           {
-            "id": "dd378f01676c856a",
+            "id": "e79a9acdb2369d27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff67bde6ac01ba97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tool/ansible.md",
+                "file": "golang/golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tool/ansible.md"
+                "file": "golang/golang.md"
               }
             }
           },
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tool/ansible.md",
+                "file": "golang/golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tool/ansible.md",
+                "file": "golang/golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,29 +146,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff67bde6ac01ba97",
+  "active": "e79a9acdb2369d27",
   "lastOpenFiles": [
     "学习记录.md",
+    "golang/golang.md",
+    "golang/文本处理.md",
+    "linux/基本操作.md",
+    "img/Pasted image 20240607010323.png",
+    "linux",
+    "未命名",
+    "golang",
+    "nginx/负载均衡配置.md",
+    "nginx/配置文件详解.md",
+    "nginx/nginx基本概念.md",
+    "lvs/基本原理概述.md",
     "tool/ansible.md",
+    "python/环境管理.md",
+    "python/Celery.md",
+    "python/Django.md",
     "learning",
     "img/Pasted image 20240531141604.png",
     "img/Pasted image 20240531134906.png",
     "img/Pasted image 20240531132522.png",
     "img/Pasted image 20240531121749.png",
     "tool",
-    "lvs/基本原理概述.md",
-    "nginx/负载均衡配置.md",
-    "nginx/nginx基本概念.md",
-    "nginx/配置文件详解.md",
     "img/Pasted image 20240531121026.png",
     "img/Pasted image 20240531120844.png",
     "img/Pasted image 20240531120609.png",
     "img/Pasted image 20240531120540.png",
     "img/Pasted image 20240531120530.png",
-    "img/Pasted image 20240531120325.png",
-    "python/Django.md",
-    "python/Celery.md",
-    "python/环境管理.md",
     "lvs",
     "python"
   ]
