@@ -306,3 +306,7 @@ func (c *valueCtx) Value(key interface{}) interface{} {
 ```
 
 如果 [`context.valueCtx`](https://draveness.me/golang/tree/context.valueCtx) 中存储的键值对与 [`context.valueCtx.Value`](https://draveness.me/golang/tree/context.valueCtx.Value) 方法中传入的参数不匹配，就会从父上下文中查找该键对应的值直到某个父上下文中返回 `nil` 或者查找到对应的值。
+
+
+## Channel
+
